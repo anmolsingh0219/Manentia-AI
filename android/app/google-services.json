@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "63386161492",
+    "project_id": "manentia-service",
+    "storage_bucket": "manentia-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63386161492:android:6d0ae0ed95f8dbb516f8c1",
+        "android_client_info": {
+          "package_name": "com.manentiaadvisory.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63386161492-br82q8p9digmr08hhp93c1g108bnf3t8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8wYBjSmnhgFwEa84pNK4vLkOCzGKI21c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63386161492-br82q8p9digmr08hhp93c1g108bnf3t8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
